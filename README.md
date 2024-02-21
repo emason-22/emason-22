@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @emason-22
+- Harvard CS50 (2024)
 - 👀 I’m interested in Android Development 
-- 📫 How to reach me @ 304-371-7099
 - I am also an aspiring Game Developer
 
 <!---
